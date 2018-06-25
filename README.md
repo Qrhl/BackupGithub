@@ -1,2 +1,2 @@
 # BackupGithub
-Backup for GitHub organization
+Backup for GitHub repositories
